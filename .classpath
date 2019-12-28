@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/rangareddy.QEDGE/Downloads/Jars/ant-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rangareddy.QEDGE/Downloads/Jars/ant-launcher-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rangareddy.QEDGE/Downloads/Jars/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rangareddy.QEDGE/Downloads/Jars/bson-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rangareddy.QEDGE/Downloads/Jars/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rangareddy.QEDGE/Downloads/Jars/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rangareddy.QEDGE/Downloads/Jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rangareddy.QEDGE/Downloads/Jars/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rangareddy.QEDGE/Downloads/Jars/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rangareddy.QEDGE/Downloads/Jars/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rangareddy.QEDGE/Downloads/Jars/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rangareddy.QEDGE/Downloads/Jars/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rangareddy.QEDGE/Downloads/Jars/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rangareddy.QEDGE/Downloads/Jars/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rangareddy.QEDGE/Downloads/Jars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rangareddy.QEDGE/Downloads/Jars/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rangareddy.QEDGE/Downloads/Jars/mongodb-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rangareddy.QEDGE/Downloads/Jars/mongodb-driver-core-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rangareddy.QEDGE/Downloads/Jars/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rangareddy.QEDGE/Downloads/Jars/poi-examples-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rangareddy.QEDGE/Downloads/Jars/poi-excelant-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rangareddy.QEDGE/Downloads/Jars/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rangareddy.QEDGE/Downloads/Jars/poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rangareddy.QEDGE/Downloads/Jars/poi-scratchpad-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rangareddy.QEDGE/Downloads/Jars/selenium-server-standalone-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rangareddy.QEDGE/Downloads/Jars/snakeyaml-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rangareddy.QEDGE/Downloads/Jars/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rangareddy.QEDGE/Downloads/Jars/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rangareddy.QEDGE/Downloads/Jars/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
